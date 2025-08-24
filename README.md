@@ -16,7 +16,7 @@ Vamos praticar o fluxo de colaboração no GitHub simulando um projeto!
 ## 👥 Colaboradores
 
 - [lucasmattoso-dev](https://github.com/lucasmattoso-dev) (Owner)  
-- [usuario-exemplo](https://github.com/montanha-dev) (Colaborador)  
+- [montanha-dev](https://github.com/montanha-dev) (Colaborador)  
 
 ## 📌 Simulação de Colaboração
 
