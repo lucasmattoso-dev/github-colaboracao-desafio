@@ -1,1 +1,2 @@
-print("Treinando colaboração no GitHub 🚀")
+name = "Lucas"
+print(f"Treinando colaboração no GitHub 🚀 | Usuário: {name}")
