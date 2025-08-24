@@ -21,7 +21,14 @@ Vamos praticar o fluxo de colaboração no GitHub simulando um projeto!
 ## 📌 Simulação de Colaboração
 
 - **Issue aberta:** Melhorar a descrição do projeto  
-- **Pull Request:** Atualização do README com novas instruções  
+- **Pull Request:** Atualização do README com novas instruções
+
+# Aprendizados
+- Como criar repositórios no GitHub
+- Como adicionar colaboradores
+- Como fazer commits
+- Como abrir pull requests
+  
 
 ---
 ✅ Desafio concluído com sucesso!  
